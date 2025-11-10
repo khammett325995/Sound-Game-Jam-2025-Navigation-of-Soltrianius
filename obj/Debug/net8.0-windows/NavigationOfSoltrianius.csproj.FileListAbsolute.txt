@@ -1,0 +1,15 @@
+C:\NavigationOfSoltrianius\NavigationOfSoltrianius\bin\Debug\net8.0-windows\NavigationOfSoltrianius.exe
+C:\NavigationOfSoltrianius\NavigationOfSoltrianius\bin\Debug\net8.0-windows\NavigationOfSoltrianius.deps.json
+C:\NavigationOfSoltrianius\NavigationOfSoltrianius\bin\Debug\net8.0-windows\NavigationOfSoltrianius.runtimeconfig.json
+C:\NavigationOfSoltrianius\NavigationOfSoltrianius\bin\Debug\net8.0-windows\NavigationOfSoltrianius.dll
+C:\NavigationOfSoltrianius\NavigationOfSoltrianius\bin\Debug\net8.0-windows\NavigationOfSoltrianius.pdb
+C:\NavigationOfSoltrianius\NavigationOfSoltrianius\obj\Debug\net8.0-windows\NavigationOfSoltrianius.GeneratedMSBuildEditorConfig.editorconfig
+C:\NavigationOfSoltrianius\NavigationOfSoltrianius\obj\Debug\net8.0-windows\NavigationOfSoltrianius.AssemblyInfoInputs.cache
+C:\NavigationOfSoltrianius\NavigationOfSoltrianius\obj\Debug\net8.0-windows\NavigationOfSoltrianius.AssemblyInfo.cs
+C:\NavigationOfSoltrianius\NavigationOfSoltrianius\obj\Debug\net8.0-windows\NavigationOfSoltrianius.csproj.CoreCompileInputs.cache
+C:\NavigationOfSoltrianius\NavigationOfSoltrianius\obj\Debug\net8.0-windows\NavigationOfSoltrianius.sourcelink.json
+C:\NavigationOfSoltrianius\NavigationOfSoltrianius\obj\Debug\net8.0-windows\NavigationOfSoltrianius.dll
+C:\NavigationOfSoltrianius\NavigationOfSoltrianius\obj\Debug\net8.0-windows\refint\NavigationOfSoltrianius.dll
+C:\NavigationOfSoltrianius\NavigationOfSoltrianius\obj\Debug\net8.0-windows\NavigationOfSoltrianius.pdb
+C:\NavigationOfSoltrianius\NavigationOfSoltrianius\obj\Debug\net8.0-windows\NavigationOfSoltrianius.genruntimeconfig.cache
+C:\NavigationOfSoltrianius\NavigationOfSoltrianius\obj\Debug\net8.0-windows\ref\NavigationOfSoltrianius.dll
